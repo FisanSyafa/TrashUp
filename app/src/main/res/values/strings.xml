@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TrashUp</string>
+    <string name="title_home">Rumah</string>
+    <string name="title_upload">Unggah</string>
+    <string name="name">Nama</string>
+    <string name="image">Gambar</string>
+    <string name="description">Deskripsi</string>
+    <string name="message_welcome_page">Mau liat cerita dan unggah cerita anda sendiri? Di StoryApp aja!</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp!</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="title_articles">Artikel</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap menjelajahi StoryApp dan membagikan cerita mu?</string>
+    <string name="logout">Keluar</string>
+    <string name="settings">Pengaturan</string>
+    <string name="gallery">Unggah Gambar</string>
+    <string name="camera">Foto Gambar</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_email">Masukkan Email</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="take_photo">Ambil foto</string>
+    <string name="searchbar_hint">Cari tutorial</string>
+    <string name="popular_tutorial">Tutorial Populer</string>
+    <string name="fab_analyze">Analisa</string>
+    <string name="analyze">Mulai Analisa</string>
+    <string name="result">Hasil Analisa</string>
+</resources>
